@@ -1,6 +1,11 @@
 Hi there 👋
-   - 🤔 I’m an experienced Java developer focusing on end back.
+   - 🤔 I’m an experienced Java developer and proficient in various J2EE frameworks.
+   - 
    - 🔭 I'm currently seeking a Java developer position in Australia.
+   - 
+   - 👯 I am a strong team player and collaborate effectively with team members.
+   - 
+   - 📫 How to reach me: xule0804@gmail.com.
 
 
 <!--
