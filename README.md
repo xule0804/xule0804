@@ -1,6 +1,6 @@
 Hi there 👋
    - 🤔 I’m an experienced Java developer focusing on end back.
-   -🔭 I'm currently seeking a Java developer position in Australia.
+   - 🔭 I'm currently seeking a Java developer position in Australia.
 
 
 <!--
