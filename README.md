@@ -1,8 +1,8 @@
 Hi there 👋
 
-     🤔 I’m an experienced Java developer and proficient in various J2EE frameworks.
+     🤔 I'm an experienced Java developer focusing on backend.
      
-     🔭 I'm currently seeking a Java developer position in Australia.
+     🔭 I'm currently seeking a developer position in Australia.
      
      👯 I am a strong team player and collaborate effectively with team members.
     
