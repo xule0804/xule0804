@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there 👋
+   🤔 I’m an experienced Java developer focusing on end back.
+   🔭 I'm currently seeking a Java developer position in Australia.
+
 
 <!--
 **xule0804/xule0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
