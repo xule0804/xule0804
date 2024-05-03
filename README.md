@@ -1,4 +1,5 @@
 Hi there 👋
+
      🤔 I’m an experienced Java developer and proficient in various J2EE frameworks.
      
      🔭 I'm currently seeking a Java developer position in Australia.
